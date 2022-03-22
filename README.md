@@ -1,1 +1,1 @@
-# NYC-taxi-trip-duration-preduiction
+# NYC-taxi-trip-duration-prediction
